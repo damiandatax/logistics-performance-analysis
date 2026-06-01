@@ -232,6 +232,24 @@ Analyzes operational efficiency at the driver level.
 
 ---
 
+## Business Impact
+
+The solution provides management with a centralized reporting environment for monitoring logistics operations, customer profitability, and driver performance.
+
+Through KPI tracking, trend analysis, and segmentation techniques, the dashboards help decision-makers identify growth opportunities, improve operational efficiency, and prioritize business initiatives.
+
+Key business benefits include:
+
+- Improved visibility into revenue performance and operational KPIs.
+- Better understanding of customer value and revenue contribution.
+- Enhanced driver performance monitoring and workforce optimization.
+- Identification of route profitability opportunities.
+- Support for strategic planning through data-driven insights.
+
+The project demonstrates how Business Intelligence tools can be leveraged to convert operational data into measurable business value.
+
+---
+
 ## Project Structure
 
 ```text
